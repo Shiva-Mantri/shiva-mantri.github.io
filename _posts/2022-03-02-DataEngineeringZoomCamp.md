@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Engineering Zoom Camp"
-categories: [dezc, ds/ai/ml, motivation]
+categories: [dezoomcamp, ds/ai/ml, motivation]
 permalink: /:year/:month/:day/:title:output_ext
 ---
 One of the things that I learned over the last one year is **Have a singular focus**. 
