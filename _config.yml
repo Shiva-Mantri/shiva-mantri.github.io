@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Do Small Changes. Make Habits.
+title: Make Life Predictable. Handle Unpredictability.
 email: shivamantri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Time, money, family, friends and other resources are limited and precious. We do not want to waste them on handling preditable events and that when an unpredictable event happens, you are out of them. Have a predictable life by making very small changes to our way of living. Enjoy your resources and be prepared for unpredicatable situations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ShivaMantri
