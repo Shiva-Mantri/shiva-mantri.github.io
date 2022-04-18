@@ -16,3 +16,8 @@ Feel free to reach out to me if you have questions, suggestions, comments or jus
 
 - Email ([shivamantri@gmail.com](mailto:shivamantri@gmail.com)) 
 - Twitter ([@shivamantri](https://twitter.com/ShivaMantri)).
+
+## Achievements
+#### Career
+- Deep Learning Nano Degree - Udacity - https://graduation.udacity.com/confirm/K5LDWFXN
+- Data Engineering Zoom Camp - https://certificate.datatalks.club/dezoomcamp/2022/32c7a7d396c69b36e1b1b8d406d67f64a2109d96.pdf
