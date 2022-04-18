@@ -21,3 +21,6 @@ Feel free to reach out to me if you have questions, suggestions, comments or jus
 #### Career
 - Deep Learning Nano Degree - Udacity - https://graduation.udacity.com/confirm/K5LDWFXN
 - Data Engineering Zoom Camp - https://certificate.datatalks.club/dezoomcamp/2022/32c7a7d396c69b36e1b1b8d406d67f64a2109d96.pdf
+
+#### Health
+- Running - Marine Corp Marathon - Runners Club (6 Timer), Big Sur International Marathon, Army, Cherry Blossom 10milers etc.,
