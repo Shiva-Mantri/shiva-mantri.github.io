@@ -6,7 +6,7 @@ permalink: /:year/:month/:day/:title:output_ext
 ---
 
 ### Building an intuitive understanding of how Linear Regression works and how it leads to Gradient Descent.
-**Reference**: How a straight line teaches machines to learn. [https://briefer.cloud/blog/posts/least-squares/](https://briefer.cloud/blog/posts/least-squares/) 
+**Source**: How a straight line teaches machines to learn. [https://briefer.cloud/blog/posts/least-squares/](https://briefer.cloud/blog/posts/least-squares/) 
 
 **Slope** Sets the tilt of the line. As the tilt increases, y-variable/x-variable increases. e.g. Price/Sq.Ft.  
 **Intercept** Shifts the line up or down in the graph or where the line starts.  It sets the baseline value. e.g. starting value of home.  
